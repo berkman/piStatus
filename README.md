@@ -6,14 +6,16 @@ Display the current IP address of a Raspberry Pi on a LCD display
 Parts
 --------
 Standard LCD 16x2 - 
-http://www.ebay.com/itm/281030305673?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
-http://www.adafruit.com/products/181
-http://www.adafruit.com/datasheets/HD44780.pdf
-http://en.wikipedia.org/wiki/Hitachi_HD44780_LCD_controller
+* http://www.ebay.com/itm/281030305673?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+* http://www.adafruit.com/products/181
+
 
 Support
 --------
-http://learn.adafruit.com/character-lcds
+* http://learn.adafruit.com/character-lcds
+* http://learn.adafruit.com/drive-a-16x2-lcd-directly-with-a-raspberry-pi/python-code
+* http://www.adafruit.com/datasheets/HD44780.pdf
+* http://en.wikipedia.org/wiki/Hitachi_HD44780_LCD_controller
 
 LCD Pins
 --------
